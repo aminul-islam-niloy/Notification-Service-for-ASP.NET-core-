@@ -62,9 +62,8 @@ Notification sound issue not solved. if you can solve this issue, please do it.
 
 This project is licensed under the [MIT License](LICENSE).
 
+![Notification Image](https://github.com/aminul-islam-niloy/Notification-Service-for-ASP.NET-core-/blob/master/Notification%20Management/wwwroot/notification.png?raw=true)
+
 ---
 
 Feel free to customize the README according to your project's specific details and requirements. You can add more sections like "Deployment", "Configuration", or "Testing", depending on what information you want to provide to users and contributors.
-
-##images: 
-![Notification Image](./wwwroot/notification.png)
