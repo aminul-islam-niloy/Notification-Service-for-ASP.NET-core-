@@ -65,3 +65,6 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Feel free to customize the README according to your project's specific details and requirements. You can add more sections like "Deployment", "Configuration", or "Testing", depending on what information you want to provide to users and contributors.
+
+##images: 
+![Notification Image](./wwwroot/notification.png)
